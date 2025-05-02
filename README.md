@@ -38,9 +38,11 @@
 - [Java](https://www.java.com/) - Core programming language
 - [NetBeans](https://netbeans.apache.org/) - Integrated Development Environment (IDE)
 
-## 🎨 Screenshots
+## 🎨 Preview
 
-*Add screenshots here if available to showcase the application.*
+![image](https://github.com/user-attachments/assets/62c3aabd-96e5-4a3f-8d55-fac7d308c89a)
+![image](https://github.com/user-attachments/assets/b51cadf3-868a-42c9-9d3c-54a9e3fe79a3)
+![image](https://github.com/user-attachments/assets/2b36c625-12b6-4e5b-b117-ff8fc9581568)
 
 ## 🤝 Contributing
 
